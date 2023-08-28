@@ -1,5 +1,6 @@
 @FunctionalInterface
 interface My{
+    //Anonymous function
     String Show(String name);
 }
 
